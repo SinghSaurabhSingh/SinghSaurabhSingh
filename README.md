@@ -1,16 +1,13 @@
-### Hi there 👋
+### Here is what I'm working on 👋
 
-<!--
-**SinghSaurabhSingh/SinghSaurabhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Spring 
+- 🌱 I’m currently learning Spring 
+- 👯 Technologies: Java,Python,Spring,Mysql
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Spring Framework
+- 📫 How to reach me: saurabhkh131099@gmail.com
+
+cheers,\
+Saurabh Singh\
+singhsonu199901999.wixsite.com/my-site
+
